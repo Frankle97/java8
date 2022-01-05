@@ -24,8 +24,5 @@ public class methodReferenceTest {
 
         String[] names = {"c", "b", "a"};
         Arrays.sort(names, String::compareToIgnoreCase);
-        System.out.println("Arrays.toString(names) = " + Arrays.toString(names));
-
-
     }
 }
