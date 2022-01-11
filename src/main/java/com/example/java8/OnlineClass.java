@@ -1,8 +1,5 @@
 package com.example.java8;
 
-import jdk.nashorn.internal.objects.annotations.Getter;
-import jdk.nashorn.internal.objects.annotations.Setter;
-
 public class OnlineClass {
 
     private Integer id;
